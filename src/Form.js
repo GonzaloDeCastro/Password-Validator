@@ -221,11 +221,12 @@ const Form = () => {
             </div>
 
             <button type="submit">Enviar</button>
+
             {formSent ? (
               <p className="exito">Formulario enviado!</p>
             ) : (
               <>
-                {" "}
+                <br />{" "}
                 {numCaracter ? (
                   <li style={{ color: "green" }}>
                     Debe tener al menos 16 caracteres.
