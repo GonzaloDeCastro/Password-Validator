@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Problema-3-y-Problema-5/static/css/main.16949919.css",
+    "main.js": "/Problema-3-y-Problema-5/static/js/main.e1e61842.js",
+    "index.html": "/Problema-3-y-Problema-5/index.html",
+    "main.16949919.css.map": "/Problema-3-y-Problema-5/static/css/main.16949919.css.map",
+    "main.e1e61842.js.map": "/Problema-3-y-Problema-5/static/js/main.e1e61842.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16949919.css",
+    "static/js/main.e1e61842.js"
+  ]
+}
