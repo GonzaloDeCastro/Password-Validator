@@ -1,7 +1,7 @@
 # Password Validator
 
-Se desea crear un validador para la contraseña de un sitio web, pero esta debe ser
-muy segura, para ello el cliente solicita los siguientes requerimientos para el password:
+Validador para la contraseña de un sitio web
+Requerimientos para el password:
 ● Debe tener al menos 16 caracteres.
 ● Debe tener letras minúsculas y mayúsculas.
 ● No puede tener 2 letras iguales consecutivas.
